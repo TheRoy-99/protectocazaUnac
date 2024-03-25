@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3fc906e-321a-43e0-9895-1d6e690dbd2b" name="Changes" comment="nuevas funcionalidades e iconos">
+      <change beforePath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/archivosplanos/animales.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/archivosplanos/animales.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/interfazesGraficas/AnimalesIGU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/interfazesGraficas/AnimalesIGU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/interfazesGraficas/VentanaConcientizacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/poo2/ProtectoCazaUnac/interfazesGraficas/VentanaConcientizacion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Uht6N3LE0XUvA3FCxGqXNzi0VG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/SpringbootJava_TiendaLibros",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.edu.poo2.ProtectoCazaUnac" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RoyMR\Documents\POO2-2023\ProtectoCazaUnac\src\co\edu\poo2\ProtectoCazaUnac\archivosplanos" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.edu.poo2.ProtectoCazaUnac" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.LoginIGU">
+    <configuration name="LoginIGU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.poo2.ProtectoCazaUnac.InterfazGrafica.LoginIGU" />
+      <module name="ProtectoCazaUnac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.poo2.ProtectoCazaUnac.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.poo2.ProtectoCazaUnac.InterfazGrafica.LoginUsuario" />
+      <module name="ProtectoCazaUnac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.poo2.ProtectoCazaUnac.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VentanaConcientizacion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VentanaConcientizacion" />
+      <module name="ProtectoCazaUnac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VentanaConcientizacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.VentanaConcientizacion" />
+      <module name="ProtectoCazaUnac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.LoginIGU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.LoginIGU" />
+      <module name="ProtectoCazaUnac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.co.edu.poo2.ProtectoCazaUnac.interfazesGraficas.LoginIGU" />
+        <item itemvalue="Application.VentanaConcientizacion" />
+        <item itemvalue="Application.VentanaConcientizacion (1)" />
+        <item itemvalue="Application.LoginUsuario" />
+        <item itemvalue="Application.LoginIGU" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3fc906e-321a-43e0-9895-1d6e690dbd2b" name="Changes" comment="" />
+      <created>1693403464158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693403464158</updated>
+      <workItem from="1693871212060" duration="19113000" />
+      <workItem from="1693927234338" duration="20540000" />
+      <workItem from="1694043876750" duration="4454000" />
+      <workItem from="1694107458874" duration="960000" />
+      <workItem from="1696002612429" duration="686000" />
+      <workItem from="1696003476377" duration="7504000" />
+      <workItem from="1696011221426" duration="3056000" />
+      <workItem from="1696014324591" duration="28990000" />
+      <workItem from="1696798118827" duration="2743000" />
+      <workItem from="1696952607372" duration="4000" />
+      <workItem from="1697039955777" duration="1368000" />
+      <workItem from="1697121497610" duration="646000" />
+      <workItem from="1697131292297" duration="10055000" />
+      <workItem from="1697556662386" duration="13736000" />
+      <workItem from="1698078435186" duration="323000" />
+      <workItem from="1698079824247" duration="1818000" />
+      <workItem from="1698271781276" duration="3448000" />
+      <workItem from="1698603971010" duration="11428000" />
+      <workItem from="1698848625055" duration="6289000" />
+      <workItem from="1698879658553" duration="4205000" />
+      <workItem from="1699035120529" duration="1441000" />
+      <workItem from="1699295153360" duration="2434000" />
+      <workItem from="1699312981351" duration="19000" />
+      <workItem from="1699383939904" duration="121000" />
+      <workItem from="1699483508970" duration="704000" />
+      <workItem from="1699550273580" duration="1380000" />
+      <workItem from="1701526009598" duration="122000" />
+      <workItem from="1707403513857" duration="61000" />
+      <workItem from="1711295993013" duration="460000" />
+      <workItem from="1711296604172" duration="207000" />
+      <workItem from="1711298922216" duration="18000" />
+      <workItem from="1711385172505" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="avanze proyecto Poo">
+      <option name="closed" value="true" />
+      <created>1693875094866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693875094866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="avanze proyecto, con inicio">
+      <option name="closed" value="true" />
+      <created>1693879878325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693879878325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="avanze proyecto, con inicio y registro">
+      <option name="closed" value="true" />
+      <created>1693884343662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693884343662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="avanze proyecto, con inicio y registro">
+      <option name="closed" value="true" />
+      <created>1693927972208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693927972208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="avanze proyecto, con login">
+      <option name="closed" value="true" />
+      <created>1693935130044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693935130044</updated>
+    </task>
+    <task id="LOCAL-00006" summary="login funcionando">
+      <option name="closed" value="true" />
+      <created>1693937498448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693937498448</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nuvas funciones, olvidepass etc">
+      <option name="closed" value="true" />
+      <created>1694016599349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694016599349</updated>
+    </task>
+    <task id="LOCAL-00008" summary="validacion de usuarios funcionando, validacion de contraseña o usuario olvidado">
+      <option name="closed" value="true" />
+      <created>1696025880751</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696025880751</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tabla de animales, en desarrollo">
+      <option name="closed" value="true" />
+      <created>1696025922679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696025922679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Interfaz con tabla de animales,botones mela">
+      <option name="closed" value="true" />
+      <created>1696355247714</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696355247715</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modificacion de lectura en lista de animales">
+      <option name="closed" value="true" />
+      <created>1696355290190</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696355290190</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modificacion mela de la creacion de usuarios">
+      <option name="closed" value="true" />
+      <created>1696355330852</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696355330852</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modificacion mela de la creacion de usuarios">
+      <option name="closed" value="true" />
+      <created>1696355354223</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696355354223</updated>
+    </task>
+    <task id="LOCAL-00014" summary="archivo plano">
+      <option name="closed" value="true" />
+      <created>1696355369334</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696355369334</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cambio nombre proyecto">
+      <option name="closed" value="true" />
+      <created>1696527368359</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696527368359</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cambio nombre proyecto">
+      <option name="closed" value="true" />
+      <created>1696527408544</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696527408544</updated>
+    </task>
+    <task id="LOCAL-00017" summary="nuevas funcionalidades">
+      <option name="closed" value="true" />
+      <created>1697141934670</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697141934670</updated>
+    </task>
+    <task id="LOCAL-00018" summary="nuevas funcionalidades">
+      <option name="closed" value="true" />
+      <created>1697141955661</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697141955661</updated>
+    </task>
+    <task id="LOCAL-00019" summary="nuevas funcionalidades">
+      <option name="closed" value="true" />
+      <created>1697141978691</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697141978691</updated>
+    </task>
+    <task id="LOCAL-00020" summary="nuevas funcionalidades e iconos">
+      <option name="closed" value="true" />
+      <created>1699036182160</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699036182160</updated>
+    </task>
+    <task id="LOCAL-00021" summary="nuevas funcionalidades e iconos">
+      <option name="closed" value="true" />
+      <created>1699036212512</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699036212512</updated>
+    </task>
+    <task id="LOCAL-00022" summary="nuevas funcionalidades e iconos">
+      <option name="closed" value="true" />
+      <created>1699036249111</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1699036249111</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="avanze proyecto Poo" />
+    <MESSAGE value="avanze proyecto, con inicio" />
+    <MESSAGE value="avanze proyecto, con inicio y registro" />
+    <MESSAGE value="avanze proyecto, con login" />
+    <MESSAGE value="login funcionando" />
+    <MESSAGE value="nuvas funciones, olvidepass etc" />
+    <MESSAGE value="validacion de usuarios funcionando, validacion de contraseña o usuario olvidado" />
+    <MESSAGE value="tabla de animales, en desarrollo" />
+    <MESSAGE value="Interfaz con tabla de animales,botones mela" />
+    <MESSAGE value="modificacion de lectura en lista de animales" />
+    <MESSAGE value="modificacion mela de la creacion de usuarios" />
+    <MESSAGE value="archivo plano" />
+    <MESSAGE value="cambio nombre proyecto" />
+    <MESSAGE value="nuevas funcionalidades" />
+    <MESSAGE value="nuevas funcionalidades e iconos" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevas funcionalidades e iconos" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
